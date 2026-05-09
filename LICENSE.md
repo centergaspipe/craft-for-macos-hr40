@@ -1,4 +1,4 @@
-
+Craft for macOS rare Addon - database templates and auto-sync offers the most advanced Craft for macOS addon, with database templates and auto-sync. Ideal for professionals.
 
 
 
